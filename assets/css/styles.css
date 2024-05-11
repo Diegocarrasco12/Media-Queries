@@ -104,6 +104,7 @@ label {
     width: 100%;
     text-align: center;
     color: var(--text);
+    background-color: #13131b;
 }
 
 .options{
