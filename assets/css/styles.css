@@ -140,10 +140,17 @@ label {
   }
   
   .button2:hover {
-    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
-    color: var(--text);
-    border: 1px solid var(--text);
-    background-color: #f59b9b34;
+    background-color: #0077FF;
+    color: white;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    transition: background-color 0.5s ease-in;
+  }
+
+  .card shadow {
+
   }
 
 .post-gallery{
